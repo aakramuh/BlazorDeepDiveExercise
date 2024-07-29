@@ -1,0 +1,14 @@
+﻿<PageTitle>Counter</PageTitle>
+
+<h1>Counter</h1>
+
+<button class="btn btn-primary" style = "background-color: @(server.IsOnline? "green" : "red")" @onclick="ToggleStatus">Click me</button>
+<button class="btn btn-danger" @onclick="ToggleStatus">Click me</button>
+@code {
+    private Server server = new Server(){ Name = "Test Server", City = "Hyderabad"};
+
+    private void ToggleStatus()
+    {
+        server.IsOnline = !server.IsOnline;
+    }
+}
