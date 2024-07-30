@@ -66,12 +66,13 @@
         server = ServersRepository.GetServerById(this.Id);
     }
 
-    private void SaveEdit() 
+    private async Task SaveEdit() 
     {
         if(server != null)
-        ServersRepository.UpdateServer(server.ServerId, server);
-
-        NavigationManager.NavigateTo("/servers");
+        {
+            ServersRepository.UpdateServer(server.ServerId, server);
+            await InvokeAsync(() => NavigationManager.NavigateTo("/servers"));
+        }
         
     }
 } 
