@@ -360,3 +360,16 @@ Tests/UnitTestBase/packages.config
 
 # JetBrains tools
 .idea/
+BlazorDeepDive/.vs/BlazorDeepDive/v17/.suo
+BlazorDeepDive/.vs/BlazorDeepDive/v17/DocumentLayout.json
+BlazorDeepDive/ServerManagement/bin/Debug/net8.0/ServerManagement.dll
+BlazorDeepDive/ServerManagement/bin/Debug/net8.0/ServerManagement.exe
+BlazorDeepDive/ServerManagement/bin/Debug/net8.0/ServerManagement.pdb
+BlazorDeepDive/ServerManagement/obj/Debug/net8.0/apphost.exe
+BlazorDeepDive/ServerManagement/obj/Debug/net8.0/ref/ServerManagement.dll
+BlazorDeepDive/ServerManagement/obj/Debug/net8.0/refint/ServerManagement.dll
+BlazorDeepDive/ServerManagement/obj/Debug/net8.0/ServerManagement.AssemblyInfo.cs
+BlazorDeepDive/ServerManagement/obj/Debug/net8.0/ServerManagement.AssemblyInfoInputs.cache
+BlazorDeepDive/ServerManagement/obj/Debug/net8.0/ServerManagement.dll
+BlazorDeepDive/ServerManagement/obj/Debug/net8.0/ServerManagement.pdb
+BlazorDeepDive/ServerManagement/obj/Debug/net8.0/ServerManagement.sourcelink.json

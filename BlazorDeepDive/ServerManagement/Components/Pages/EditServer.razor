@@ -6,17 +6,27 @@
 
 @if(server != null)
 {
-    <EditForm Model="server" class="form-horizontal">
+    <EditForm Model="server" class="form-horizontal" FormName = "FormEditServer" OnValidSubmit="SaveEdit">
+        <DataAnnotationsValidator></DataAnnotationsValidator>
+        <ValidationSummary></ValidationSummary>
+
+        <InputNumber id="serverId" @bind-Value="server.ServerId" hidden/>
         <div class="form-group row">
             <label for="serverName" class="col-sm-2 col-form-label">Name</label>
             <div class="col-sm-10">
                 <InputText id="serverName" class="form-control" @bind-Value="server.Name" />
+            </div>
+            <div class="col">
+                <ValidationMessage For="@(() => server.Name)" />
             </div>
         </div>
         <div class="form-group row">
             <label for="serverCity" class="col-sm-2 col-form-label">City</label>
             <div class="col-sm-10">
                 <InputText id="serverCity" class="form-control" @bind-Value="server.City" />
+            </div>
+            <div class="col">
+                <ValidationMessage For="@(() => server.City)" />
             </div>
         </div>
         <div class="form-group row">
@@ -26,7 +36,7 @@
                     <InputCheckbox id="serverIsOnline" class="form-check-input" @bind-Value="server.IsOnline" />
                     <label class="form-check-label" for="serverIsOnline">Online</label>
                 </div>
-            </div>
+            </div>           
         </div>
         <div class="form-group row">
             <div class="col-sm-10 offset-sm-2">
@@ -45,10 +55,18 @@
     [Parameter]
     public int Id { get; set; }
 
-    private Server? server;
+    [SupplyParameterFromForm(FormName = "FormEditServer")]
+    private Server? server { get; set; }
 
     protected override void OnParametersSet()
     {
-       server = ServersRepository.GetServerById(this.Id);
+        if (server == null)
+        server = ServersRepository.GetServerById(this.Id);
+    }
+
+    private void SaveEdit() 
+    {
+        if(server != null)
+        ServersRepository.UpdateServer(server.ServerId, server);
     }
 } 
