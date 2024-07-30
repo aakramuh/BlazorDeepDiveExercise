@@ -388,3 +388,6 @@ BlazorDeepDive/ServerManagement/obj/Debug/net8.0/ServerManagement.dll
 BlazorDeepDive/ServerManagement/obj/Debug/net8.0/ServerManagement.pdb
 BlazorDeepDive/ServerManagement/obj/Debug/net8.0/ServerManagement.sourcelink.json
 /BlazorDeepDive/.vs
+/BlazorDeepDive/.vs/BlazorDeepDive/v17
+/BlazorDeepDive/ServerManagement/bin
+/BlazorDeepDive/ServerManagement/obj
