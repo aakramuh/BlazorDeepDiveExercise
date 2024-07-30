@@ -3,64 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|c:\\users\\azeem\\desktop\\git\\blazordeepdiveudemypersonal\\blazordeepdiveexercise\\blazordeepdive\\servermanagement\\components\\pages\\addservercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\pages\\addservercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|c:\\users\\azeem\\desktop\\git\\blazordeepdiveudemypersonal\\blazordeepdiveexercise\\blazordeepdive\\servermanagement\\components\\pages\\editserver.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\pages\\editserver.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|c:\\users\\azeem\\desktop\\git\\blazordeepdiveudemypersonal\\blazordeepdiveexercise\\blazordeepdive\\servermanagement\\models\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\models\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|c:\\users\\azeem\\desktop\\git\\blazordeepdiveudemypersonal\\blazordeepdiveexercise\\blazordeepdive\\servermanagement\\components\\pages\\servers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\pages\\servers.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|c:\\users\\azeem\\desktop\\git\\blazordeepdiveudemypersonal\\blazordeepdiveexercise\\blazordeepdive\\servermanagement\\models\\serversrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\models\\serversrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|c:\\users\\azeem\\desktop\\git\\blazordeepdiveudemypersonal\\blazordeepdiveexercise\\blazordeepdive\\servermanagement\\components\\controls\\servercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\controls\\servercomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|c:\\users\\azeem\\desktop\\git\\blazordeepdiveudemypersonal\\blazordeepdiveexercise\\blazordeepdive\\servermanagement\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|c:\\users\\azeem\\desktop\\git\\blazordeepdiveudemypersonal\\blazordeepdiveexercise\\blazordeepdive\\servermanagement\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|c:\\users\\azeem\\desktop\\git\\blazordeepdiveudemypersonal\\blazordeepdiveexercise\\blazordeepdive\\servermanagement\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|c:\\users\\azeem\\desktop\\git\\blazordeepdiveudemypersonal\\blazordeepdiveexercise\\blazordeepdive\\servermanagement\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|c:\\users\\azeem\\desktop\\git\\blazordeepdiveudemypersonal\\blazordeepdiveexercise\\blazordeepdive\\servermanagement\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|c:\\users\\azeem\\desktop\\git\\blazordeepdiveudemypersonal\\blazordeepdiveexercise\\blazordeepdive\\servermanagement\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|c:\\users\\azeem\\desktop\\git\\blazordeepdiveudemypersonal\\blazordeepdiveexercise\\blazordeepdive\\servermanagement\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|c:\\users\\azeem\\desktop\\git\\blazordeepdiveudemypersonal\\blazordeepdiveexercise\\blazordeepdive\\servermanagement\\models\\citiesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\models\\citiesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|c:\\users\\azeem\\desktop\\git\\blazordeepdiveudemypersonal\\blazordeepdiveexercise\\blazordeepdive\\servermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|c:\\users\\azeem\\desktop\\git\\blazordeepdiveudemypersonal\\blazordeepdiveexercise\\blazordeepdive\\servermanagement\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{FCB3E0EF-A29C-48D4-8F9A-619F0BC482C6}|ServerManagement\\ServerManagement.csproj|solutionrelative:servermanagement\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,192 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Components\\Layout\\NavMenu.razor",
-              "RelativeDocumentMoniker": "ServerManagement\\Components\\Layout\\NavMenu.razor",
-              "ToolTip": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Components\\Layout\\NavMenu.razor",
-              "RelativeToolTip": "ServerManagement\\Components\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAtAAAA",
+              "DocumentIndex": 0,
+              "Title": "AddServerComponent.razor",
+              "DocumentMoniker": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Components\\Pages\\AddServerComponent.razor",
+              "RelativeDocumentMoniker": "ServerManagement\\Components\\Pages\\AddServerComponent.razor",
+              "ToolTip": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Components\\Pages\\AddServerComponent.razor",
+              "RelativeToolTip": "ServerManagement\\Components\\Pages\\AddServerComponent.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T22:05:06.675Z"
+              "WhenOpened": "2024-07-30T23:25:03.263Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "EditServer.razor",
               "DocumentMoniker": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Components\\Pages\\EditServer.razor",
               "RelativeDocumentMoniker": "ServerManagement\\Components\\Pages\\EditServer.razor",
               "ToolTip": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Components\\Pages\\EditServer.razor",
               "RelativeToolTip": "ServerManagement\\Components\\Pages\\EditServer.razor",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAADoAAAAAAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADsAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-29T21:57:07.672Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Error.razor",
-              "DocumentMoniker": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Components\\Pages\\Error.razor",
-              "RelativeDocumentMoniker": "ServerManagement\\Components\\Pages\\Error.razor",
-              "ToolTip": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Components\\Pages\\Error.razor",
-              "RelativeToolTip": "ServerManagement\\Components\\Pages\\Error.razor",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T21:56:26.086Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CitiesRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Models\\CitiesRepository.cs",
-              "RelativeDocumentMoniker": "ServerManagement\\Models\\CitiesRepository.cs",
-              "ToolTip": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Models\\CitiesRepository.cs",
-              "RelativeToolTip": "ServerManagement\\Models\\CitiesRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T21:28:54.934Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ServersRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Models\\ServersRepository.cs",
-              "RelativeDocumentMoniker": "ServerManagement\\Models\\ServersRepository.cs",
-              "ToolTip": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Models\\ServersRepository.cs",
-              "RelativeToolTip": "ServerManagement\\Models\\ServersRepository.cs",
-              "ViewState": "AQIAABcAAAAAAAAAAAArwCIAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T19:24:39.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Components\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "ServerManagement\\Components\\Layout\\MainLayout.razor",
-              "ToolTip": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Components\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "ServerManagement\\Components\\Layout\\MainLayout.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T18:28:38.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Routes.razor",
-              "DocumentMoniker": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Components\\Routes.razor",
-              "RelativeDocumentMoniker": "ServerManagement\\Components\\Routes.razor",
-              "ToolTip": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Components\\Routes.razor",
-              "RelativeToolTip": "ServerManagement\\Components\\Routes.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T18:20:34.585Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Server.cs",
-              "DocumentMoniker": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Models\\Server.cs",
-              "RelativeDocumentMoniker": "ServerManagement\\Models\\Server.cs",
-              "ToolTip": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Models\\Server.cs",
-              "RelativeToolTip": "ServerManagement\\Models\\Server.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T13:03:40.587Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "_Imports.razor",
-              "DocumentMoniker": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Components\\_Imports.razor",
-              "RelativeDocumentMoniker": "ServerManagement\\Components\\_Imports.razor",
-              "ToolTip": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Components\\_Imports.razor",
-              "RelativeToolTip": "ServerManagement\\Components\\_Imports.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T12:56:50.001Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ServerComponent.razor",
-              "DocumentMoniker": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Components\\Controls\\ServerComponent.razor",
-              "RelativeDocumentMoniker": "ServerManagement\\Components\\Controls\\ServerComponent.razor",
-              "ToolTip": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Components\\Controls\\ServerComponent.razor",
-              "RelativeToolTip": "ServerManagement\\Components\\Controls\\ServerComponent.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T12:55:17.865Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Servers.razor",
-              "DocumentMoniker": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Components\\Pages\\Servers.razor",
-              "RelativeDocumentMoniker": "ServerManagement\\Components\\Pages\\Servers.razor",
-              "ToolTip": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Components\\Pages\\Servers.razor",
-              "RelativeToolTip": "ServerManagement\\Components\\Pages\\Servers.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T12:53:39.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "ServerManagement\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "ServerManagement\\Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T12:52:30.917Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Weather.razor",
-              "DocumentMoniker": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Components\\Pages\\Weather.razor",
-              "RelativeDocumentMoniker": "ServerManagement\\Components\\Pages\\Weather.razor",
-              "ToolTip": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Components\\Pages\\Weather.razor",
-              "RelativeToolTip": "ServerManagement\\Components\\Pages\\Weather.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T12:50:59.446Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Components\\App.razor",
-              "RelativeDocumentMoniker": "ServerManagement\\Components\\App.razor",
-              "ToolTip": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Components\\App.razor",
-              "RelativeToolTip": "ServerManagement\\Components\\App.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-29T12:47:52.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Program.cs",
-              "RelativeDocumentMoniker": "ServerManagement\\Program.cs",
-              "ToolTip": "C:\\Users\\Azeem\\Desktop\\Git\\BlazorDeepDiveUdemyPersonal\\BlazorDeepDiveExercise\\BlazorDeepDive\\ServerManagement\\Program.cs",
-              "RelativeToolTip": "ServerManagement\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-29T12:47:51.892Z"
             }
           ]
         }
